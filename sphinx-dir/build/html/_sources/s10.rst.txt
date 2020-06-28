@@ -1,8 +1,0 @@
-Step 10 - The Bodge
-===================
-
-If you are not shorting the blue jumper on the LED next to the badge pin stick a piece of tape over the pad to avoid the clasp connecting it (this is an error in the prototype design).
-
-`Skip the troubleshooting guide and proceed to the next step`_
-
-.. _`Skip the troubleshooting guide and proceed to the next step`: s11.html
