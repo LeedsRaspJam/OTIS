@@ -1,0 +1,11 @@
+Step 3 - Soldering the Battery Holder in place
+==============================================
+
+Reflow the solder on the pads, making sure the pads of the holder are flat on the surface of the board.
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+`If you have a board that does not have resistors presoldered click here to complete some additional steps`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s4.html
+.. _`If you have a board that does not have resistors presoldered click here to complete some additional steps`: unsoldered.html
