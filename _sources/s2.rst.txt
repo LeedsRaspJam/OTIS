@@ -1,0 +1,8 @@
+Step 2 - Positioning the Battery Holder
+=======================================
+
+Place the battery holder in its location on the board and use tweezers to apply pressure to the top of it.
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s3.html
