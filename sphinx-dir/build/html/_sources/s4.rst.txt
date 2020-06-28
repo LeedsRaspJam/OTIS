@@ -1,0 +1,19 @@
+Step 4 - Positioning the switch
+===============================
+
+- Insert the switch into the holes on the right side of the board, with the black slider facing outwards.
+- Use the images below for guidance as to how it should look.
+
+.. image:: images/s4-1.jpg
+.. image:: images/s4-2.jpg
+
+|
+
+.. youtube:: eivWjOcXdDw
+   :width: 100%
+
+|
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s5.html
