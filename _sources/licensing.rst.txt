@@ -1,6 +1,11 @@
 Credits & Licensing Information:
 ================================
 
+.. image:: images/oshw_mark_path.svg
+   :width: 40%
+
+This kit is certified open source hardware - `certification.oshwa.org/uk000011.html`_
+
 The name - OTIS by Martin Parker (martinparkers.com_)
 
 Boards, schematics, all other diagrams, these instructions and anything else not listed by Matthew Charlston (twitter_) and James Cook (jaminit.co.uk_)
@@ -34,3 +39,4 @@ As per CERN-OHL-S v2 section 4, should You produce hardware based on these sourc
 .. _jaminit.co.uk: https://jaminit.co.uk
 .. _clairegarside.com: https://clairegarside.com
 .. _`tinyurl.com/LeedsJams`: https://tinyurl.com/LeedsJams
+.. _`certification.oshwa.org/uk000011.html`: https://certification.oshwa.org/uk000011.html
