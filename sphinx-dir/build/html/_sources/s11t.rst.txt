@@ -1,6 +1,0 @@
-Step 11 - Troubleshooting
-=========================
-
-
-- If the battery does not seem to be making good contact you may need to flow more solder into the negative pad to add more tension or remove and adjust the placement of the battery holder.
-- To remove the battery holder heat up both pads while applying upwards force with tweezers (remove the battery first).

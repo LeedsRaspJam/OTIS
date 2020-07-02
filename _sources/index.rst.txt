@@ -39,4 +39,4 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 .. _`View this project on GitHub`: https://github.com/leedsraspjam/OTIS
 .. _`Credits & Licensing Information`: licensing.html
 .. _`View the feedback form`: https://otis.leedsraspjam.co.uk/feedback
-.. _`Visit the (now archived) twine version of this website`: https://otis.leedsraspjam.co.uk/archive/index.html
+.. _`Visit the (now archived) twine version of this website`: https://otis.leedsraspjam.co.uk/_static/archive/index.html
