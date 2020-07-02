@@ -57,15 +57,17 @@ function refreshImages() { // function to set overlay images to on/off
 function fullscreenImage() {
     if (document.getElementById('mainImg').style.width == '100%') {
       document.getElementById('mainImg').style.width = '300px';
-      var overlayStyle = document.createElement('style');
-      document.head.appendChild(overlayStyle);
-      overlayStyle.sheet.insertRule('.overlayImg {width: 300px}');
+      var elements = document.querySelectorAll('.overlayImg');
+      for(var i=0; i<elements.length; i++){
+          elements[i].style.width = 300 + "px";
+      }
       document.getElementById('fullscreenButtonText').innerText = 'Enlarge the image';
     } else {
       document.getElementById('mainImg').style.width = '100%';
-      var overlayStyle = document.createElement('style');
-      document.head.appendChild(overlayStyle);
-      overlayStyle.sheet.insertRule('.overlayImg {width: 100%}');
+      var elements = document.querySelectorAll('.overlayImg');
+      for(var i=0; i<elements.length; i++){
+          elements[i].style.width = 100 + "%";
+      }
       document.getElementById('fullscreenButtonText').innerText = 'Default image size';
     }
 }
