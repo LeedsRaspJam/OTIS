@@ -1,0 +1,8 @@
+Step 7 - Inserting the Badge Pin
+================================
+
+Push the badge pin through the hole in the centre of the board and hold it in place with the clasp on the other side.
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s8.html
