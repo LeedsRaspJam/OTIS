@@ -1,6 +1,7 @@
 function setImageVisible(id, visible) { // function to modify visibility state of images
+    console.log("Id: " + id)
     var img = document.getElementById(id);
-    img.style.visibility = (visible ? 'visible' : 'hidden');
+    img.style.visibility = (visible);
 }
 
 function parseInput(form, name) { // function to get input selection from form
@@ -47,9 +48,41 @@ function refreshImages() { // function to set overlay images to on/off
     }
 
     for (i in ledValues) {
-      alert('LED' + i + " is set to: " + ledValues[i]);
+      var pos = "";
+      if (i==0){
+        pos = "TL";
+      } else if (i==1) {
+        pos = "TR";
+      } else if (i==2) {
+        pos = "B1";
+      } else if (i==3) {
+        pos = "B2";
+      }
+      console.log(pos);
+      // alert('LED' + i + " is set to: " + ledValues[i]);
       jumperStates = calculateJumpers(ledValues[i]);
-      alert(jumperStates); // set the images here an example is setImageVisible(TR-R, visible);
+      // alert(jumperStates); // set the images here an example is setImageVisible(TR-R, visible);
+      if (jumperStates[0]==1) {
+        setImageVisible(pos+"-R", "visible");
+        console.log("Show red");
+      } else {
+        setImageVisible(pos+"-R", "hidden");
+        console.log("Hide red");
+      }
+      if (jumperStates[1]==1) {
+        setImageVisible(pos+"-G", "visible");
+        console.log("Show red");
+      } else {
+        setImageVisible(pos+"-G", "hidden");
+        console.log("Hide red");
+      }
+      if (jumperStates[2]==1) {
+        setImageVisible(pos+"-B", "visible");
+        console.log("Show red");
+      } else {
+        setImageVisible(pos+"-B", "hidden");
+        console.log("Hide red");
+      }
     }
 
 }
