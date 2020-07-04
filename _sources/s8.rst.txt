@@ -3,8 +3,6 @@ Step 8 - LED Colours
 
 Input which colours you would like your LEDs to show into the form below then hit the button to generate a diagram. Solder all the jumpers highlighted by a white rectangle in the image to set your colours.
 
-NOTE - THIS COLOUR PICKER IS NON-FUNCTIONAL AS OF 2nd JULY 2020. PLEASE REFER TO THE TABLE AT `otis.leedsraspjam.co.uk/sphinx-dir/source/images/s8-REPLACED.png`_ UNTIL IT IS FINISHED.
-
 .. raw:: html
 
   <!DOCTYPE html>
