@@ -1,5 +1,4 @@
 function setImageVisible(id, visible) { // function to modify visibility state of images
-    console.log("Id: " + id)
     var img = document.getElementById(id);
     img.style.visibility = (visible);
 }
@@ -49,7 +48,7 @@ function refreshImages() { // function to set overlay images to on/off
 
     for (i in ledValues) {
       var pos = "";
-      if (i==0){
+      if (i==0){  // Sets the correct position
         pos = "TL";
       } else if (i==1) {
         pos = "TR";
@@ -58,30 +57,23 @@ function refreshImages() { // function to set overlay images to on/off
       } else if (i==3) {
         pos = "B2";
       }
-      console.log(pos);
       // alert('LED' + i + " is set to: " + ledValues[i]);
       jumperStates = calculateJumpers(ledValues[i]);
-      // alert(jumperStates); // set the images here an example is setImageVisible(TR-R, visible);
-      if (jumperStates[0]==1) {
+      // alert(jumperStates); // set the images here an example is setImageVisible("TR-R", "visible)"";
+      if (jumperStates[0]==1) { // Checks if red needs to be turned on
         setImageVisible(pos+"-R", "visible");
-        console.log("Show red");
       } else {
         setImageVisible(pos+"-R", "hidden");
-        console.log("Hide red");
       }
-      if (jumperStates[1]==1) {
+      if (jumperStates[1]==1) { // Checks if green needs to be turned on
         setImageVisible(pos+"-G", "visible");
-        console.log("Show red");
       } else {
         setImageVisible(pos+"-G", "hidden");
-        console.log("Hide red");
       }
-      if (jumperStates[2]==1) {
+      if (jumperStates[2]==1) { // Checks if blue needs to be turned on
         setImageVisible(pos+"-B", "visible");
-        console.log("Show red");
       } else {
         setImageVisible(pos+"-B", "hidden");
-        console.log("Hide red");
       }
     }
 
