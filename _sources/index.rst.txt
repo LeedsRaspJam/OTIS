@@ -14,11 +14,8 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 .. image:: images/homepage.jpg
 
 - `Begin the assembly guide`_
-- `View schematics & board diagrams`_
 - `View this project on GitHub`_
-- `Credits & Licensing Information`_
 - `View the feedback form`_
-- `Visit the (now archived) twine version of this website`_
 
 .. youtube:: 8DNA1CCd7PA
    :width: 100%
@@ -35,8 +32,5 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 
 .. _twitter: https://twitter.com/leedsraspjam
 .. _`Begin the assembly guide`: ag.html
-.. _`View schematics & board diagrams`: files.html
 .. _`View this project on GitHub`: https://github.com/leedsraspjam/OTIS
-.. _`Credits & Licensing Information`: licensing.html
 .. _`View the feedback form`: https://otis.leedsraspjam.co.uk/feedback
-.. _`Visit the (now archived) twine version of this website`: https://otis.leedsraspjam.co.uk/_static/archive/index.html
