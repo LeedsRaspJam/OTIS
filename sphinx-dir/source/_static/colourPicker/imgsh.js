@@ -59,7 +59,7 @@ function refreshImages() { // function to set overlay images to on/off
       }
       // alert('LED' + i + " is set to: " + ledValues[i]);
       jumperStates = calculateJumpers(ledValues[i]);
-      // alert(jumperStates); // set the images here an example is setImageVisible("TR-R", "visible)"";
+      // alert(jumperStates); // set the images here an example is setImageVisible("TR-R", "visible");
       if (jumperStates[0]==1) { // Checks if red needs to be turned on
         setImageVisible(pos+"-R", "visible");
       } else {
