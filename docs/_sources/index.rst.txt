@@ -17,6 +17,10 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 - `View this project on GitHub`_
 - `View the feedback form`_
 
+.. raw:: html
+
+   <a href="https://www.tindie.com/stores/leedsraspjam/?ref=offsite_badges&utm_source=sellers_otisLRJ&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
 .. youtube:: 8DNA1CCd7PA
    :width: 100%
 

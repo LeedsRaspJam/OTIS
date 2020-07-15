@@ -12,7 +12,7 @@ Boards, schematics, all other diagrams, these instructions and anything else not
 
 Various other things - Claire Garside (clairegarside.com_)
 
-Lastly, a huge thanks to the entire Leeds Raspberry Jam (find details of jams at `tinyurl.com/LeedsJams`_) community for making OTIS possible.
+Lastly, a huge thanks to the entire Leeds Raspberry Jam (find details of jams at `eventbrite`_) community for making OTIS possible.
 
 Documentation:
 --------------
@@ -38,6 +38,6 @@ As per CERN-OHL-S v2 section 4, should You produce hardware based on these sourc
 .. _twitter: https://twitter.com/mcharlsto
 .. _jaminit.co.uk: https://jaminit.co.uk
 .. _clairegarside.com: https://clairegarside.com
-.. _`tinyurl.com/LeedsJams`: https://tinyurl.com/LeedsJams
+.. _`eventbrite`: https://www.eventbrite.co.uk/o/the-foundation-for-digital-creativity-19981872804
 .. _`https:/cern.ch/cern-ohl`: https://cern.ch/cern-ohl
 .. _`certification.oshwa.org/uk000011.html`: https://certification.oshwa.org/uk000011.html
