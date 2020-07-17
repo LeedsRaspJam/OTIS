@@ -15,6 +15,8 @@ Note - these files may or may not be complete and are not guaranteed to be in a 
 - `ARCHIVE - EAGLE Schematic (OTIS M1)`_
 - `ARCHIVE - Gerbers (OTIS M1)`_
 
+- `Bill of Materials (includes parts for both OTIS and OTISjr.)`_
+
 .. _`EAGLE Board File (OTIS M3)`: https://otis.leedsraspjam.co.uk/files/M3.brd
 .. _`EAGLE Schematic (OTIS M3)`: https://otis.leedsraspjam.co.uk/files/M3.sch
 .. _`EAGLE Board File (OTISjr.)`: https://otis.leedsraspjam.co.uk/files/JR-M1.brd
@@ -24,4 +26,5 @@ Note - these files may or may not be complete and are not guaranteed to be in a 
 .. _`ARCHIVE - EAGLE Board File (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1.brd
 .. _`ARCHIVE - EAGLE Schematic (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1.sch
 .. _`ARCHIVE - Gerbers (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1_2020-07-04.zip
+.. _`Bill of Materials (includes parts for both OTIS and OTISjr.)`: https://otis.leedsraspjam.co.uk/files/BOM.xlsx
 .. _`licensing`: licensing.html
