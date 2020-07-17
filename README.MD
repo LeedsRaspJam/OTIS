@@ -1,6 +1,4 @@
 # OTIS
-
-Do not update further, all development has moved to OTIS-dev.
 This repository is used to host a Pages site, see [otis.leedsraspjam.co.uk](https://otis.leedsraspjam.co.uk) for the finished docs.
 
 Built using [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) and [Sphinx](https://www.sphinx-doc.org/en/master/). Make sure to move the successfull build files from sphinx-dir/build/html to root before committing.
