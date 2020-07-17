@@ -1,14 +1,37 @@
-Step 1 - Preparing the Battery Holder Pads
-==========================================
+Step 1 - Battery Holder & Switch
+================================
 
-Flow solder onto the two positive pads on the edge of the battery holder outline and a small amount onto the central negative pad.
+Flow some solder onto the two battery holder pads near the center of the board as shown in the image below.
+
+.. image
+
+Position the battery holder.
+
+.. image
+
+Reflow the solder on the two pads, adding more if necessary.
+
+.. image
+
+Insert the switch into the position shown below.
+
+.. image
+
+Solder the pins of the switch into place, making sure the switch is flush with the board.
+
+.. image
+
+If you are unsure, please refer to the video below
 
 .. youtube:: BPkF7ItYe9k
    :width: 100%
 
 |
 
+Troubleshooting
+***************
 
-`Skip the troubleshooting guide and proceed to the next step`_
-
-.. _`Skip the troubleshooting guide and proceed to the next step`: s2.html
+- If solder won't flow check your iron tip is free from any black oxidation and it has been tinned with solder.
+- If any copper is showing through the iron plating the tip has worn down and needs to be replaced.
+- Check your iron temperature is set to 370°C for lead based solder or 390°C for lead-free solder.
+- Check the solder you are using has a flux core and is ideally lead based.

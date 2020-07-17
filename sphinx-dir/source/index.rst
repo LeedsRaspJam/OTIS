@@ -13,7 +13,8 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 
 .. image:: images/homepage.jpg
 
-- `Begin the assembly guide`_
+- `Begin the assembly guide (OTIS)`_
+- `Begin the assembly guide (OTISjr.)`_
 - `View this project on GitHub`_
 - `View the feedback form`_
 
@@ -30,11 +31,13 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
    :titlesonly:
    :caption: Contents:
 
-   Assembly Guide <ag>
+   Assembly Guide (OTIS) <ag>
+   Assembly Guide (OTISjr.) <ag-jr>
    Schematics & Board Diagrams <files>
    Credits & Licensing Information <licensing>
 
 .. _twitter: https://twitter.com/leedsraspjam
-.. _`Begin the assembly guide`: ag.html
+.. _`Begin the assembly guide (OTIS)`: ag.html
+.. _`Begin the assembly guide (OTISjr.)`: ag-jr.html
 .. _`View this project on GitHub`: https://github.com/leedsraspjam/OTIS
 .. _`View the feedback form`: https://otis.leedsraspjam.co.uk/feedback

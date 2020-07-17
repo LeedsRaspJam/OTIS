@@ -1,0 +1,14 @@
+Step 1 - Preparing the Battery Holder Pads
+==========================================
+
+Flow solder onto the two positive pads on the edge of the battery holder outline and a small amount onto the central negative pad.
+
+.. youtube:: BPkF7ItYe9k
+   :width: 100%
+
+|
+
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s2.html

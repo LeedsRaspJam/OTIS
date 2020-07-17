@@ -6,7 +6,7 @@ Credits & Licensing Information:
 
 This kit is certified open source hardware - `certification.oshwa.org/uk000011.html`_
 
-The name - OTIS by Martin Parker (martinparkers.com_)
+The name - OTIS and videos by Martin Parker (martinparkers.com_)
 
 Boards, schematics, all other diagrams, these instructions and anything else not listed by Matthew Charlston (twitter_) and James Cook (jaminit.co.uk_)
 
