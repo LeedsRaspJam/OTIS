@@ -20,7 +20,7 @@ Note - these files may or may not be complete and are not guaranteed to be in a 
 .. _`EAGLE Board File (OTISjr.)`: https://otis.leedsraspjam.co.uk/files/JR-M1.brd
 .. _`EAGLE Schematic (OTISjr.)`: https://otis.leedsraspjam.co.uk/files/JR-M1.sch
 .. _`Gerbers (OTIS M3)`: https://otis.leedsraspjam.co.uk/files/M3_2020-07-17.zip
-.. _`Gerbers (OTISjr.)`: https://otis.leedsraspjam.co.uk/files/JR-_2020-07-17.zip
+.. _`Gerbers (OTISjr.)`: https://otis.leedsraspjam.co.uk/files/JR-M1_2020-07-17.zip
 .. _`ARCHIVE - EAGLE Board File (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1.brd
 .. _`ARCHIVE - EAGLE Schematic (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1.sch
 .. _`ARCHIVE - Gerbers (OTIS M1)`: https://otis.leedsraspjam.co.uk/files/M1_2020-07-04.zip
