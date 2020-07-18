@@ -35,7 +35,8 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
    Assembly Guide (OTISjr.) <ag-jr>
    Schematics & Board Diagrams <files>
    Credits & Licensing Information <licensing>
-
+   Soldering Tutorial <s_tutorial>
+   
 .. _twitter: https://twitter.com/leedsraspjam
 .. _`Begin the assembly guide (OTIS)`: ag.html
 .. _`Begin the assembly guide (OTISjr.)`: ag-jr.html

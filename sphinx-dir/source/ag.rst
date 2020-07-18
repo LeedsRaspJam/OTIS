@@ -1,12 +1,7 @@
 Project OTIS - Assembly Guide (OTIS):
 =====================================
 
-.. raw:: html
-
-   If you are a complete beginner and have never soldered before, we recommend reading through a seperate guide just to learn the basics. If you have done soldering of any kind before this guide will be sufficent. We recommend the one from SparkFun Electronics at 
-   <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering" target="_blank">learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering.</a>
-
-|
+If you are a complete beginner and have never soldered before, we recommend reading through a seperate guide just to learn the basics, see the `"Soldering Tutorial"`_ page. If you have done soldering of any kind before the main assembly guide alone will be sufficent. 
 
 .. toctree::
    :caption: Assembly Guide (OTIS):
@@ -17,3 +12,5 @@ Project OTIS - Assembly Guide (OTIS):
    s4
    s5
    s6
+
+.. _`"Soldering Tutorial"`: s_tutorial.html
