@@ -6,8 +6,8 @@
 Home
 ====
 
-Welcome to the website for Project OTIS, the Leeds Raspberry Jam (twitter_) owl badge.
---------------------------------------------------------------------------------------
+Welcome to the website for Project OTIS, the Leeds Raspberry Jam's (twitter_) owl badge.
+----------------------------------------------------------------------------------------
 
 OTIS (out there initiating STEM) is designed to be an easy to assemble and customisable beginner's soldering kit, featuring a metallic owl design on the front, 4 RGB LEDS (can be set to one of seven colours individually) and is powered by a CR2032 battery.
 

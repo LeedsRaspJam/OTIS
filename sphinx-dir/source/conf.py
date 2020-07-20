@@ -31,7 +31,6 @@ author = 'Leeds Raspberry Jam'
 extensions = [
     "sphinx_rtd_theme",
     "sphinxembeddedvideos.youtube",
-    "notfound.extension",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
