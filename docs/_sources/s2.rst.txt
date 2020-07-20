@@ -3,8 +3,11 @@ Step 2 - Soldering the LEDs
 
 Insert the four LEDs into position, with their longest pin facing towards the switch.
 
-.. image of them in place
-.. image showing the LED orientation - both side by side
+.. figure:: images/led_showpos.jpg
+
+   Position of the LEDs - the longest pin should be on the right
+
+.. image:: images/led_pins.jpg
 
 Solder the LED pins in place, making sure the LEDs are flush with the board and there are no solder bridges between the pins, and then trim the leads using side cutters (scissors will do if you don't have any).
 

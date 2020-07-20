@@ -3,11 +3,16 @@ Step 1 - Battery Holder & Switch
 
 Flow some solder onto the two battery holder pads near the center of the board as shown in the image below.
 
-.. image
+.. figure:: images/batthold_pads.jpg
 
-Position the battery holder.
+   Left - perfect pad tinning
+   Right - untinned pad
 
-.. image
+Position the battery holder with the side with the plus symbol facing the switch pads.
+
+.. figure:: images/batthold_pos.jpg
+
+   Battery holder in position - see the side with the plus symbol faces the switch pads
 
 Reflow the solder on the two pads, adding more if necessary.
 

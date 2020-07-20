@@ -28,18 +28,22 @@ If you can, switch to a fine soldering iron tip now, it will make the soldering 
 
 Flow solder onto just one of the pads for all the part locations detailed above (each location is labelled with both the value of resistor to be placed there and it's identifier in white lettering on the board.) An example is below.
 
-.. image of unsoldered pad with one tinned
+.. figure:: images/smd_onepadtinned.jpg
+
+   Flow solder onto one of the pads
 
 Follow these steps for all three strips. First, remove the plastic cover from the top of the strip, use tweezers if you cannot do it by hand. Being careful not to accidentally inhale the resistors, pick one up with tweezers and place it on the board location shown in the table above. Hold it in place and reflow the pad you have already applied solder to. After making sure the part is securely in place, continue to solder the other side in place. If necessary, touch up the side you soldered originally and ensure both pads have a nice smooth, shiny joint. An image of a perfect resistor is below.
 
-.. image of soldered resistors
+.. figure:: images/smd_perfect.jpg 
+
+   A perfectly soldered resistor
 
 If you make a mistake soldering a resistor (and you most likely will) or simply lose one, we've included at least one spare. If necessary, you can desolder a resistor by applying upwards pressure with tweezers while heating both sides.
 
 Now for the power LED. Retrieve the clear strip from earlier and extract the LEDs from it.
 Identify the side with the green arrows. Position the LED on the board with that side facing towards the vertical line, as shown in the image below.
 
-.. image of LED just above the pads
+.. image:: images/led_pos.jpg
 
 Solder the LED using the same process as you did for the resistor and bridge the two contacts to the left to enable it. You can break this connection when you have verified the kit works as intended to disable the LED and increase battery life.
 
