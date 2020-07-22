@@ -1,8 +1,0 @@
-:orphan:
-
-404 - Page not found
-====================
-
-`Return to the homepage`_
-
-.. _`Return to the homepage`: index.html
