@@ -3,10 +3,14 @@ Step 5 - Testing
 
 Flick the switch and verify the LEDs light as intended.
 
-.. youtube:: 8DNA1CCd7PA
-   :width: 100%
+.. raw:: html
+
+   <div class="youtube_wrapper" style="padding-bottom: 56.250000%; padding-top: 30px; position: relative; width: 100%">
+   <iframe allowfullscreen="true" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=399" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%">
+   </iframe></div><div class="line-block">
 
 |
+
 
 Troubleshooting
 ***************
