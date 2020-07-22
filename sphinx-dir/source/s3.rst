@@ -34,7 +34,7 @@ Flow solder onto just one of the pads for all the part locations detailed above 
 
 Follow these steps for all three strips. First, remove the plastic cover from the top of the strip, use tweezers if you cannot do it by hand. Being careful not to accidentally inhale the resistors, pick one up with tweezers and place it on the board location shown in the table above. Hold it in place and reflow the pad you have already applied solder to. After making sure the part is securely in place, continue to solder the other side in place. If necessary, touch up the side you soldered originally and ensure both pads have a nice smooth, shiny joint. An image of a perfect resistor is below.
 
-.. figure:: images/smd_perfect.jpg
+.. figure:: images/smd_perfect.jpg 
 
    A perfectly soldered resistor
 
@@ -49,9 +49,8 @@ Solder the LED using the same process as you did for the resistor and bridge the
 
 If you are unsure, please refer to the video below:
 
-.. raw:: html
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=205&end=346" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: K_Zzi4qLBEw
+   :width: 100%
 
 |
 

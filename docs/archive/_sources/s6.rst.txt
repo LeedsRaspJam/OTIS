@@ -1,0 +1,11 @@
+Step 6 - Soldering the Through Hole Parts
+=========================================
+
+Flip the board over and solder the parts in place, making sure the parts are flush with the board and there are no shorts (bridges of solder between pins) or cold joints (crusty or dull, sometimes with holes or black spots).
+
+.. image:: images/s6-1.jpg
+.. image:: images/s6-2.jpg
+
+`Skip the troubleshooting guide and proceed to the next step`_
+
+.. _`Skip the troubleshooting guide and proceed to the next step`: s7.html

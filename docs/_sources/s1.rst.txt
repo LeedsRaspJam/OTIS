@@ -28,9 +28,8 @@ Solder the pins of the switch into place, making sure the switch is flush with t
 
 If you are unsure, please refer to the video below
 
-.. raw:: html
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?end=86" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: BPkF7ItYe9k
+   :width: 100%
 
 |
 
