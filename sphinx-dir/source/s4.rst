@@ -112,10 +112,8 @@ If you are unsure, please refer to the video below:
 
 |
 
-.. raw:: html
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=346&end=376" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+.. youtube:: PktxJEJBNFY
+   :width: 100%
 
 |
 
