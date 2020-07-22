@@ -11,3 +11,11 @@ Push the badge pin from Bag 1 through the hole in the centre of the board and ho
     :width: 40 %
 .. image:: images/bp_bottom.jpg
     :width: 40 %
+
+If you are unsure, please refer to the video below:
+
+|
+
+.. raw:: html
+
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=376&end=399" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
