@@ -1,7 +1,7 @@
 Step 2 - Soldering the LEDs
 ===========================
 
-Position the LEDs so their middle-length pin (on the same side as the notch cut into the LED) is facing towards the side with the resistors
+Position the LEDs so their middle-length pin (on the same side as the notch cut into the LED) is facing towards the side opposite the switch.
 
 .. image of them in place
 .. image showing the LED orientation - both side by side
