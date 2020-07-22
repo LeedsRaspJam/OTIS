@@ -15,8 +15,9 @@ Solder the LED pins in place, making sure the LEDs are flush with the board and 
 
 If you are unsure, please refer to the video below:
 
-.. youtube:: PktxJEJBNFY
-   :width: 100%
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=86&end=205" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |
 

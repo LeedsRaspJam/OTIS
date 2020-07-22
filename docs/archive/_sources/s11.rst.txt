@@ -1,8 +1,0 @@
-Step 11 - Inserting the Battery
-===============================
-
-Remove the CR2032 coin cell from its packaging and insert it into the battery holder.
-
-`Skip the troubleshooting guide and proceed to the next step`_
-
-.. _`Skip the troubleshooting guide and proceed to the next step`: s12.html
