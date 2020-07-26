@@ -21,10 +21,7 @@ OTIS (out there initiating STEM) is designed to be an easy to assemble and custo
 .. raw:: html
 
    <a href="https://www.tindie.com/stores/leedsraspjam/?ref=offsite_badges&utm_source=sellers_otisLRJ&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
-   <div class="youtube_wrapper" style="padding-bottom: 56.250000%; padding-top: 30px; position: relative; width: 100%">
-   <iframe allowfullscreen="true" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=400 style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%">
-   </iframe></div><div class="line-block">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/d12Fq-d6gOU?start=400" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |
 
