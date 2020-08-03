@@ -25,7 +25,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# Dependency directories
-node_modules/
-jspm_packages/
