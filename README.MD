@@ -1,7 +1,9 @@
 # OTIS
-This repository is used to host a Pages site, see [otis.leedsraspjam.co.uk](https://otis.leedsraspjam.co.uk) for the finished docs.
+ * This repository is used to host a Pages site, see [otis.leedsraspjam.co.uk](https://otis.leedsraspjam.co.uk) for the finished docs.
 
-Built using [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) and [Sphinx](https://www.sphinx-doc.org/en/master/). Make sure to move the successfull build files from sphinx-dir/build/html to root before committing.
+* Built using [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) and [Sphinx](https://www.sphinx-doc.org/en/master/). Make sure to move the successfull build files from sphinx-dir/build/html to root before committing.
+
+* You can check out the Tindie link to buy our product at: [tindie.com/products/20433/](https://www.tindie.com/products/20433/)
 # Useful Files
  * [LICENSE.MD](LICENSE.MD) - Contains licensing info for this repo
  * [/docs](docs) - Contains the built html files
