@@ -3,11 +3,18 @@ Step 4 - Inserting the Battery
 
 Remove the CR2032 coin cell from its packaging and insert it into the battery holder.
 
-.. image of battery in holder
+.. image:: images/batt_inholder.jpg
 
 Push the badge pin from Bag 2 through the hole in the centre of the board and hold it in place with the clasp on the other side.
 
-.. image of both sides of badge pin side by side
+.. image:: images/bp_top.jpg
+    :width: 40 %
+.. image:: images/bp_bottom.jpg
+    :width: 40 %
+
+If you are unsure, please refer to the video below:
+
+|
 
 .. raw:: html
 
