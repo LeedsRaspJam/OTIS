@@ -4,7 +4,8 @@ Step 2 - Soldering the LEDs
 Position the LEDs so their middle-length pin (on the same side as the notch cut into the LED) is facing towards the side opposite the switch.
 
 .. image of them in place
-.. image showing the LED orientation - both side by side
+
+.. image:: images/led_pins.jpg
 
 Solder the LED pins in place, making sure the LEDs are flush with the board and there are no solder bridges between the pins, and then trim the leads using side cutters (scissors will do if you don't have any).
 
